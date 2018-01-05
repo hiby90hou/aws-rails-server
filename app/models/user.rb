@@ -7,6 +7,5 @@ class User < ApplicationRecord
 
 	def to_param
 	 user_name
-	 # password
 	end
 end
